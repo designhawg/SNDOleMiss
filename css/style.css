@@ -1,0 +1,19 @@
+
+
+
+
+.panel .yuri {
+  font-size: 5em;
+  font-family: "Comic Sans MS", serif;
+  font-style: italic;
+  color: red;
+}
+
+@media only screen and (max-width: 40em) {
+  body { background-color: red; }
+
+  .panel .yuri {
+    color: blue;
+  }
+}
+
